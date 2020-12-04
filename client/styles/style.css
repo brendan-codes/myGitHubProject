@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 h1 {
     color: red;
+=======
+h1, p {
+    color: blue
+>>>>>>> modularization
 }
